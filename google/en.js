@@ -1,3 +1,4 @@
+// Switch the result and page language to English for Google
 var uri = window.location.href;
 var key = "lr";
 var value = "lang_en";
