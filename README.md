@@ -1,6 +1,7 @@
-## Some bookmarklets I daily use
+# Bookmarklets
+Some bookmarklets I daily use
 
-### Build
+## Build
 ``` shell
 npm install
 npm run build
